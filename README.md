@@ -30,8 +30,8 @@ The Bank Management System is an application for maintaining a person's account 
 ## Screenshots
 
 ![Login Window](https://github.com/SatyamAaditya/Bank-Management-System/blob/Projects/Images/Screenshot%20(456).png)
-![Admin Panel](https://github.com/SatyamAaditya/Bank-Management-System/blob/Projects/Images/Screenshot%20(458).png)
-![Admin Panel](https://github.com/SatyamAaditya/Bank-Management-System/blob/Projects/Images/Screenshot%20(467).png)
+![Admin Panel](https://github.com/SatyamAaditya/Bank-Management-System/blob/Projects/Images/Screenshot%20(458).jpg)
+![Admin Panel](https://github.com/SatyamAaditya/Bank-Management-System/blob/Projects/Images/Screenshot%20(467).jpg)
 
   
 ## Appendix
