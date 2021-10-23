@@ -1,0 +1,5 @@
+Step: 1  Download Oracle 10g
+Step: 2  Setup and create a user with Username: bank  and Password:161512
+Step: 3  Create all the tables and its column.  [ Check SABankScript.sql  for all fields ]
+
+Ready to go...............
